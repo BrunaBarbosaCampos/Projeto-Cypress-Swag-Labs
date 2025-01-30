@@ -52,4 +52,3 @@ Os testes cobrem cenários como:
  ┣ 📂 fixtures       # Dados de teste  
  ┣ 📂 support        # Comandos customizados e configurações  
  ┗ 📜 cypress.config.js  # Configuração do Cypress  
-\`\`\`  
