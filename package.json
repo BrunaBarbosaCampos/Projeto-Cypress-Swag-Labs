@@ -8,8 +8,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
-  "dependencies": {
-    "cypress": "^14.0.0"
+  "description": "Este repositório contém testes automatizados desenvolvidos com [Cypress](https://www.cypress.io/) para validar funcionalidades do site de testes [Swag Labs](https://www.saucedemo.com/).",
+  "devDependencies": {
+    "cypress": "^14.0.2"
   }
 }
