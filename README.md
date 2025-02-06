@@ -18,7 +18,7 @@ Antes de executar os testes, certificar-se de ter instalado:
    
 ```json
 {
-   "git clone https://github.com/seu-usuario/seu-repositorio.git"
+   "git clone https://github.com/BrunaBarbosaCampos/Projeto-Cypress-Swag-Labs.git"
 }
 ```
 2. Instale as dependências:  
