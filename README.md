@@ -51,4 +51,4 @@ Os testes cobrem cenários como:
  ┣ 📂 e2e            # Testes automatizados  
  ┣ 📂 fixtures       # Dados de teste  
  ┣ 📂 support        # Comandos customizados e configurações  
- ┗ 📜 cypress.config.js  # Configuração do Cypress  
+📜 cypress.config.js  # Configuração do Cypress  
